@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+This App Help you to determine you Body Mass Index
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
